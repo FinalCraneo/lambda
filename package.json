@@ -21,6 +21,7 @@
   "homepage": "https://github.com/FinalCraneo/lambda#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "firebase": "^5.5.8",
     "netlify-lambda": "^1.0.3"
   }
 }
