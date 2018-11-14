@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FinalCraneo/lambda/issues"
   },
-  "homepage": "https://github.com/FinalCraneo/lambda#readme"
+  "homepage": "https://github.com/FinalCraneo/lambda#readme",
+  "dependencies": {
+    "netlify-lambda": "^1.0.3"
+  }
 }
